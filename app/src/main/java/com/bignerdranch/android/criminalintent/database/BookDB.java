@@ -10,7 +10,7 @@ public class BookDB {
 
         public static final class Cols {
             public static final String UUID = "uuid";
-
+            public static final String ISBN = "isbn";
             public static final String TITLE = "title";
             public static final String LOCATION = "location";
             public static final String PRICE = "price";
